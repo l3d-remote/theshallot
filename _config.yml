@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The Shallot 24/7 News - Official Website
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  The Shallot provide the best and most accurate news there is. Real news and none of that fake news stuff.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.theshallot.co.uk" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
