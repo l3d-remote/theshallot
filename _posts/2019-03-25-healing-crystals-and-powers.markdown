@@ -9,3 +9,5 @@ categories: crystals
 ---
 
 Healing crystals are the furture of advanced medical treatment. "If you’re just beginning to use crystals, a great way to harness their healing power is by using healing stones for manifesting your intentions and what you want to create in your life." says www.energymuse.com
+
+[energy-muse]: http://www.energymuse.com
