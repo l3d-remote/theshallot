@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Healing crystals and their powers you WONT belive!"
-color:  black
+color:  blue
 width:   10 
 height:  2
 date:   2019-03-25 11:45:49 +0200
