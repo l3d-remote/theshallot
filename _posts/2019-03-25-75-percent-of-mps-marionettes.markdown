@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-color:  teal
+title:  "75 Percent of MP's are Marionettes"
+color:  lime
 width:   4 
 height:  2
 date:   2016-03-30 11:31:49 +0200
