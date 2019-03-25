@@ -7,7 +7,9 @@ height:  2
 date:   2016-03-30 11:31:49 +0200
 categories: jekyll update
 ---
+
 If you look closely you’ll find that at least 75% of MP's are marionettes. 
+
 ---
 <div style="text-align:center"><img src ="/assets/brexit/marionettes.jpg" /></div>
 ---
