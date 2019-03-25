@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Driving Cars Are Self Aware AND Rasist!"
 color:  red
-width:   4 
+width:   6 
 height:  2
 date:   2019-03-23 11:31:49 +0200
 categories: tech 
